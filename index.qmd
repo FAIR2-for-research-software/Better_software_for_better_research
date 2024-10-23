@@ -8,7 +8,7 @@ format:
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
 institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2024"
 date: ""
-footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](git@github.com:FAIR2-for-research-software/Better_software_for_better_research.git)"
+footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)"
 from: markdown+emoji
 css: style.css
 ---
