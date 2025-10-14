@@ -6,7 +6,7 @@ format:
         slide-number: true
         show-slide-number: speaker
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
-institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2024"
+institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2025"
 date: ""
 footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)"
 from: markdown+emoji
@@ -54,12 +54,13 @@ css: style.css
 - Previously : Staff Astronomer and Software Project manager at the Very Large Telescope (Chile)
  
 - Released/Published a few modules/software:
+  - [STON](https://github.com/Romain-Thomas-Shef/STON) (submitted, JOSS)
   - [dfitspy](https://joss.theoj.org/papers/10.21105/joss.01249)
-  - [SPARTAN](https://www.sciencedirect.com/science/article/pii/S2213133720300810?via%3Dihub)
   - [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full)
+  - [SPARTAN](https://www.sciencedirect.com/science/article/pii/S2213133720300810?via%3Dihub)
 
 
-![](assets/images/p3.jpg){.absolute top="350" left="300" width="800" height="250"}
+![](assets/images/p3.jpg){.absolute top="370" left="300" width="800" height="250"}
 
 
 ## Who are we? The teams behind the programme {.smaller}
@@ -125,6 +126,28 @@ The Library's Scholarly Communications Team provides specialist services to supp
 :::
 
 :::
+
+## This is our second year!
+
+During our first delivery we have seen ~250 registrations to our training programme from all Faculties at the university.
+![](assets/images/Recap24.png){.absolute top="180" left="70" width="900"  height="500"}
+
+
+## Programme very well received !!!
+
+- *"Very clear explanations, which was great because my depth of knowledge of software development is varied. It’s helpful to have the foundations explained clearly."*
+- *"I really liked having presentations from multiple different people from across the university within one session."*
+- *"I appreciated that time was set aside to put the learning into practice"*
+- *"It reinforced many of the software development rules and ideas that will help with future development"*
+
+## We are starting teaching it now!
+
+<br>
+<br>
+
+- This second year also sees us **teaching** a (shortened) version of our programme to the made4manufacturing CDT. 
+- Part of the Data Science and RSE module. 
+
 
 # Why FAIR?
 
@@ -408,7 +431,7 @@ REUSABLE: The software should be well-documented, including clear instructions o
 <br>
 
 ![](assets/images/C++style.png){.absolute top="100" left="550" width="500" height="350"}
-![](assets/images/RStyle.png){.absolute top="330" left="510" width="400" height="150"}
+![](assets/images/RStyle.png){.absolute top="330" left="530" width="400" height="150"}
 ![](assets/images/PEP8.png){.absolute top="430" left="650" width="400" height="150"}
 
 :::
@@ -708,36 +731,6 @@ Do you feel that you have received sufficient training to develop reliable softw
 
 
 
-## Software Lifecycle Planning
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-<br>
-<span style="color:red">Who</span>: 
-[R Thomas](mailto:romain.thomas@sheffield.ac.uk), [R. Campbell](), [K. O’Neill]()
-
-<span style="color:red">When/Length</span>: November 8th / 2.5h (afternoon)
-
-<span style="color:red">Format</span>: Online
-
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-<ins>Abstract:</ins>  
-When you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: <span style="color:red">*software management plan, licences and dissemination*</span>. This module should allow you to ask yourself the right questions when starting a research software project.
-
-</font>
-
-:::
-
-:::
-
 ## Version control: Git, GitHub and GitKraken - From Zero to Hero 
 
 ::: {.columns}
@@ -747,7 +740,7 @@ When you start writing software it is often very useful to think about the devel
 
 <br>
 
-<span style="color:red">Who</span>:  [Neil Shephard](mailto:neil.shephard@sheffield.ac.uk)
+<span style="color:red">Who</span>:  [Michael Foster](mailto:m.foster@sheffield.ac.uk) & Dan Brady
 
 <span style="color:red">When/Length</span>: 18/19 November (2 half days). Another session in February
 
@@ -774,7 +767,7 @@ If you’ve never heard of or used version control and Git before this is the co
 :::
 
 
-## [Advanced] Version control: Git collaboration  
+## [Advanced] Version control: Git with it!  
 
 ::: {.columns}
 
@@ -818,9 +811,9 @@ This course aims to help you develop a <span style="color:red">*deeper understan
 
 
 <br><br>
-<span style="color:red">Who</span>: [R. Thomas](mailto:romain.thomas@sheffield.ac.uk)
+<span style="color:red">Who</span>: [Martin Dyer](mailto:martin.dyer@sheffield.ac.uk) & Neil Shephard
 
-<span style="color:red">When/Length</span>: 12/13 December (2 half days)
+<span style="color:red">When/Length</span>: 26/11 & 03/12 (2 half days)
 
 <span style="color:red">Format</span>: In person
 
@@ -841,6 +834,37 @@ The way you write your code will have a massive impact on how easy it is to main
 :::
 
 :::
+
+## Software Lifecycle Planning
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+<span style="color:red">Who</span>: 
+[R Thomas](mailto:romain.thomas@sheffield.ac.uk), [R. Campbell](), [K. O’Neill]()
+
+<span style="color:red">When/Length</span>: 11/12,  ~2.5h (afternoon)
+
+<span style="color:red">Format</span>: Online
+
+
+:::
+
+::: {.column width="50%"}
+
+<font size=5>
+
+<ins>Abstract:</ins>  
+When you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: <span style="color:red">*software management plan, licences and dissemination*</span>. This module should allow you to ask yourself the right questions when starting a research software project.
+
+</font>
+
+:::
+
+:::
+
 
 
 ## Code Testing
@@ -994,9 +1018,9 @@ Packaging your software is one of the most important steps in a software project
 
 
 <br><br>
-<span style="color:red">Who</span>: [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk) & [Arfon Smith]() 
+<span style="color:red">Who</span>: [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk) 
 
-<span style="color:red">When/Length</span>: April, 1.5h
+<span style="color:red">When/Length</span>: April, 45min
 
 <span style="color:red">Format</span>: Online
 
@@ -1023,47 +1047,9 @@ Did you know that you can actually publish a paper about your software? This is 
 
 
 
-## End-to-End demo
-
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-
-<br><br>
-<span style="color:red">Who</span>: [Romain Thomas](mailto:romain.thomas@sheffield.ac.uk)
-
-<span style="color:red">When/Length</span>: April, 1.5h
-
-<span style="color:red">Format</span>: Online
-
-:::
-
-::: {.column width="50%"}
-
-<font size=5>
-
-<br>
-<ins>Abstract:</ins>  
-
-On a short demonstration, we will attempt to review the main points of the training program, from code design  and version control, to testing, documentation and packaging of a short demo software.
-
-</font>
-
-
-
-
-:::
-
-:::
-
-
-
-
 ## The FAIR<sup>2</sup>4RS Programme: Timeline
 
-![](assets/images/Programme_Timeline.png){fig-align="center"}
+![](assets/images/FAIR_programme.png){fig-align="center"}
 
 ## The FAIR<sup>2</sup>4RS Programme: Material and dependencies
 
@@ -1103,9 +1089,9 @@ On a short demonstration, we will attempt to review the main points of the train
 - Training are all <span style="color:red">Free of charge</span>.  
 - BUT! they all need registration and <span style="color:red">in-person sessions have limited places!</span>
 - They will all be available on mydevelopment platform. The first 3 sessions are already open for registration:
-  - [Software Management plan](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028) - Nov 8th
-  - [Git/Github zero to Hero](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06) - Nov 18th/19th
-  - [Code Design](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94) - Dec 12th/13th
+  - [Git/Github zero to Hero](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d4d09f67-097b-4451-8ddb-86cb90636c06) - Oct 28th & Nov 4th
+  - [Code Design](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/d3c2cca5-d894-44b6-a79b-e93dea7a7c94) - Nov 26th & Dec 3rd
+  - [Software Management plan](https://mydevelopment.csod.com/ui/lms-learning-details/app/event/2d69f5c5-f9e7-46c2-999a-ffb3ed1db028) - Dec 12th
 - January onward sessions will be available for booking around December.
 
 </font>

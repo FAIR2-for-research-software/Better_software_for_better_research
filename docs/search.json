@@ -11,7 +11,7 @@
     "href": "index.html#who-am-i",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Who am I?",
-    "text": "Who am I?\n\nName : Romain Thomas\nRole : Head of Research Software Engineering\nPreviously : Staff Astronomer and Software Project manager at the Very Large Telescope (Chile)\nReleased/Published a few modules/software:\n\ndfitspy\nSPARTAN\nSCUBA"
+    "text": "Who am I?\n\nName : Romain Thomas\nRole : Head of Research Software Engineering\nPreviously : Staff Astronomer and Software Project manager at the Very Large Telescope (Chile)\nReleased/Published a few modules/software:\n\nSTON (submitted, JOSS)\ndfitspy\nSCUBA\nSPARTAN"
   },
   {
     "objectID": "index.html#who-are-we-the-teams-behind-the-programme",
@@ -35,11 +35,32 @@
     "text": "Who are we? The teams behind the programme\nLibrary’s Scholarly Communications\n\n\n\n\nThe Library’s Scholarly Communications Team provides specialist services to support researchers at the University of Sheffield. They offer guidance on making your research outputs open access, and give support on good practice in research data management, copyright and licensing as well as open research more broadly."
   },
   {
+    "objectID": "index.html#this-is-our-second-year",
+    "href": "index.html#this-is-our-second-year",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "This is our second year!",
+    "text": "This is our second year!\nDuring our first delivery we have seen ~250 registrations to our training programme from all Faculties at the university."
+  },
+  {
+    "objectID": "index.html#programme-very-well-received",
+    "href": "index.html#programme-very-well-received",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Programme very well received !!!",
+    "text": "Programme very well received !!!\n\n“Very clear explanations, which was great because my depth of knowledge of software development is varied. It’s helpful to have the foundations explained clearly.”\n“I really liked having presentations from multiple different people from across the university within one session.”\n“I appreciated that time was set aside to put the learning into practice”\n“It reinforced many of the software development rules and ideas that will help with future development”"
+  },
+  {
+    "objectID": "index.html#we-are-starting-teaching-it-now",
+    "href": "index.html#we-are-starting-teaching-it-now",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "We are starting teaching it now!",
+    "text": "We are starting teaching it now!\n \n\nThis second year also sees us teaching a (shortened) version of our programme to the made4manufacturing CDT.\nPart of the Data Science and RSE module."
+  },
+  {
     "objectID": "index.html#research-is-a-continuous-process",
     "href": "index.html#research-is-a-continuous-process",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Research is a continuous process",
-    "text": "Research is a continuous process\n“The succession of researchers is comparable to a single person who learns indefinitely. Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian [1623-1662] \n\n\nThat’s very old….\nBut still very valid…\nAnd becomes much more difficult with thecomplexity of modern research"
+    "text": "Research is a continuous process\n“The succession of researchers is comparable to a single person who learns indefinitely. Pascal, Pensee, French Mathematician, Physicist, inventor, philosopher and theologian [1623-1662] \n\nThat’s very old….\nBut still very valid…\nAnd becomes much more difficult with thecomplexity of modern research"
   },
   {
     "objectID": "index.html#research-creates-knowledgethat-is-passed-down",
@@ -53,21 +74,21 @@
     "href": "index.html#and-that-can-be-trusted",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "And that can be trusted…",
-    "text": "And that can be trusted…\n\n\n\n\nResearch relies on the ability to trust what has been done before.\nThis means that a result has been tested, verified and could be reproduced ➡️➡️\nTools and methods used for a particular result are known and shared…\n\n\n\n  The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+    "text": "And that can be trusted…\n\n\n\nResearch relies on the ability to trust what has been done before.\nThis means that a result has been tested, verified and could be reproduced ➡️➡️\nTools and methods used for a particular result are known and shared…\n\n\n  The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
     "objectID": "index.html#what-if-a-generation-of-researchers-stop-doing-this",
     "href": "index.html#what-if-a-generation-of-researchers-stop-doing-this",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "What if a generation of researchers stop doing this?",
-    "text": "What if a generation of researchers stop doing this?\n\n\n\n\nTools and methods used for a particular results are NOT known and shared…\nThis means that a result can NOT be tested and verified and can NOT be reproduced.\n➡️ It is harder to trust research\n\n\n\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+    "text": "What if a generation of researchers stop doing this?\n\n\n\nTools and methods used for a particular results are NOT known and shared…\nThis means that a result can NOT be tested and verified and can NOT be reproduced.\n➡️ It is harder to trust research\n\n\n The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
     "objectID": "index.html#are-we-far-from-reaching-this-situation",
     "href": "index.html#are-we-far-from-reaching-this-situation",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Are we far from reaching this situation?",
-    "text": "Are we far from reaching this situation?\n\n\n\nSource: Baker M., Nature, 2016\n\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments…\nAnd more than half have failed to reproduce their own experiments."
+    "text": "Are we far from reaching this situation?\n\n\n\nSource: Baker M., Nature, 2016\n\n\n\n90% said there is a crisis!\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments…\nAnd more than half have failed to reproduce their own experiments."
   },
   {
     "objectID": "index.html#lets-improve",
@@ -123,14 +144,14 @@
     "href": "index.html#barriers-to-fair24rs",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Barriers to FAIR24RS",
-    "text": "Barriers to FAIR24RS\n\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n\n Better Science through Better Data 2017) scribe images."
+    "text": "Barriers to FAIR24RS\n\n\n\nfear of prejudice\n\nimportant to create a positive culture\n\nfear of ‘theft’\n\nlicensing and citation\n\ntechnical and time barriers\n\nsupport is available!\nonly need to learn once\n\nnon-commercialisable?\n\nopen source and commercialisation are compatible\ngreater impact through open source\n\n\n\n Better Science through Better Data 2017) scribe images."
   },
   {
     "objectID": "index.html#benefits-of-fair24rs",
     "href": "index.html#benefits-of-fair24rs",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Benefits of FAIR24RS",
-    "text": "Benefits of FAIR24RS\n\n\n Better Science through Better Data 2017) scribe images.\n\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
+    "text": "Benefits of FAIR24RS\n\n\n Better Science through Better Data 2017) scribe images.\n\n\nAccelerate research\nIncrease transparency of research\nIncrease visibility, citation, reputation and impact\nReduce duplication of effort"
   },
   {
     "objectID": "index.html#how-to-be-fair",
@@ -144,28 +165,28 @@
     "href": "index.html#fair4rs-think-about-how-you-are-coding",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Think about how you are coding…",
-    "text": "FAIR4RS: Think about how you are coding…\n\n\n\n\nWhere possible, make your code modular.\nComment your code to make it as clear as possible.\nCreate and provide tests that others can use.\nFollow code standards"
+    "text": "FAIR4RS: Think about how you are coding…\n\n\n\nWhere possible, make your code modular.\nComment your code to make it as clear as possible.\nCreate and provide tests that others can use.\nFollow code standards"
   },
   {
     "objectID": "index.html#fair4rs-be-open-even-inside-the-code",
     "href": "index.html#fair4rs-be-open-even-inside-the-code",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Be open even inside the code!",
-    "text": "FAIR4RS: Be open even inside the code!\n\n\n\n\nWhere possible and applicable, outputs (even between pieces of code) should use open and accessible data formats, which will help if other researchers only wish to use part of your code.\nBut do NOT reinvent the wheel! In some research fields data format are standardized ➡️ if you want people to use your code, use [your] community standards!"
+    "text": "FAIR4RS: Be open even inside the code!\n\n\n\nWhere possible and applicable, outputs (even between pieces of code) should use open and accessible data formats, which will help if other researchers only wish to use part of your code.\nBut do NOT reinvent the wheel! In some research fields data format are standardized ➡️ if you want people to use your code, use [your] community standards!"
   },
   {
     "objectID": "index.html#fair4rs-version-your-code",
     "href": "index.html#fair4rs-version-your-code",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Version your code!",
-    "text": "FAIR4RS: Version your code!\n\n\n\n\nUsing version control software platform such as Github/GitLab allows you to keep track of the changes you make to your code\nYou can release version of your software/code/scripts directly from Github. While it should not be used a long term storage place, It gives a place where your code can be downloaded and where people can contribute.\n\n\n\n  https://www.sheffield.ac.uk/library/research-data-management/repositories"
+    "text": "FAIR4RS: Version your code!\n\n\n\nUsing version control software platform such as Github/GitLab allows you to keep track of the changes you make to your code\nYou can release version of your software/code/scripts directly from Github. While it should not be used a long term storage place, It gives a place where your code can be downloaded and where people can contribute.\n\n\n  https://www.sheffield.ac.uk/library/research-data-management/repositories"
   },
   {
     "objectID": "index.html#fair4rs-document-your-code",
     "href": "index.html#fair4rs-document-your-code",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Document your code!",
-    "text": "FAIR4RS: Document your code!\n\n\n\nA little poem from A beginner’s guide to writing documentation:\n\n\nIf people don’t know why your project exists, they won’t use it.\nIf people can’t figure out how to install your code, they won’t use it.\nIf people can’t figure out how to use your code, they won’t use it."
+    "text": "FAIR4RS: Document your code!\n\n\n\nA little poem from A beginner’s guide to writing documentation:\n\nIf people don’t know why your project exists, they won’t use it.\nIf people can’t figure out how to install your code, they won’t use it.\nIf people can’t figure out how to use your code, they won’t use it."
   },
   {
     "objectID": "index.html#fair4rs-document-your-code-1",
@@ -179,7 +200,7 @@
     "href": "index.html#fair4rs-licence-your-code",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Licence your code!",
-    "text": "FAIR4RS: Licence your code!\n\n\nYou need to tell people how they can re-use your code.\n\n\nGPLv3 The GNU General Public License: a free, copyleft license for software and other kinds of works. It is intended to guarantee your freedom to share and change all versions of a software to make sure it remains free software for all its users\nMIT licence: is a permissive free software license. Without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,\n\n\n\n \nThe licence must be made clear in the code repository and in the documentation."
+    "text": "FAIR4RS: Licence your code!\n\n\nYou need to tell people how they can re-use your code.\n\nGPLv3 The GNU General Public License: a free, copyleft license for software and other kinds of works. It is intended to guarantee your freedom to share and change all versions of a software to make sure it remains free software for all its users\nMIT licence: is a permissive free software license. Without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,\n\n\n \nThe licence must be made clear in the code repository and in the documentation."
   },
   {
     "objectID": "index.html#fair4rs-get-credit-for-your-work",
@@ -193,7 +214,7 @@
     "href": "index.html#fair4rs-share-it",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "FAIR4RS: Share it!",
-    "text": "FAIR4RS: Share it!\n\n\n\nCreate a description of your code with metadata [data about your software].\nCodemeta is a set of keywords used to describe code and how to structure them in a machine readable way\n\nExamples:\n\n\nThe citation.cff file contains metadata\nDescription keywords\nUrl to repository, to documentation\nList of contributors and affiliations\netc…"
+    "text": "FAIR4RS: Share it!\n\n\n\nCreate a description of your code with metadata [data about your software].\nCodemeta is a set of keywords used to describe code and how to structure them in a machine readable way\n\nExamples:\n\nThe citation.cff file contains metadata\nDescription keywords\nUrl to repository, to documentation\nList of contributors and affiliations\netc…"
   },
   {
     "objectID": "index.html#fair4rs-share-it-1",
@@ -231,32 +252,32 @@
     "text": "The FAIR24RS Programme: Overview"
   },
   {
-    "objectID": "index.html#software-lifecycle-planning",
-    "href": "index.html#software-lifecycle-planning",
-    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "Software Lifecycle Planning",
-    "text": "Software Lifecycle Planning\n\n\n Who: R Thomas, R. Campbell, K. O’Neill\nWhen/Length: November 8th / 2.5h (afternoon)\nFormat: Online\n\n\n\nAbstract:\n\nWhen you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: software management plan, licences and dissemination. This module should allow you to ask yourself the right questions when starting a research software project."
-  },
-  {
     "objectID": "index.html#version-control-git-github-and-gitkraken---from-zero-to-hero",
     "href": "index.html#version-control-git-github-and-gitkraken---from-zero-to-hero",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Version control: Git, GitHub and GitKraken - From Zero to Hero",
-    "text": "Version control: Git, GitHub and GitKraken - From Zero to Hero\n\n\n\nWho: Neil Shephard\nWhen/Length: 18/19 November (2 half days). Another session in February\nFormat: In person\n\n\n\nAbstract:\n\nIf you’ve never heard of or used version control and Git before this is the course for you. We start by introducing version control and exploring how it can be beneficial to researchers, then we introduce some useful tools and get started with some basic workflow using these tools. We build on those foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give you the chance to get some hands-on experience with using version control in a research setting."
+    "text": "Version control: Git, GitHub and GitKraken - From Zero to Hero\n\n\n\nWho: Michael Foster & Dan Brady\nWhen/Length: 18/19 November (2 half days). Another session in February\nFormat: In person\n\n\n\nAbstract:\n\nIf you’ve never heard of or used version control and Git before this is the course for you. We start by introducing version control and exploring how it can be beneficial to researchers, then we introduce some useful tools and get started with some basic workflow using these tools. We build on those foundations with collaborative exercises that introduce key concepts such as forks, pull requests and branches and give you the chance to get some hands-on experience with using version control in a research setting."
   },
   {
-    "objectID": "index.html#advanced-version-control-git-collaboration",
-    "href": "index.html#advanced-version-control-git-collaboration",
+    "objectID": "index.html#advanced-version-control-git-with-it",
+    "href": "index.html#advanced-version-control-git-with-it",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "[Advanced] Version control: Git collaboration",
-    "text": "[Advanced] Version control: Git collaboration\n\n\n Who: Neil Shephard\nWhen/Length: February\nFormat: In person\n\n\n\nAbstract:\n\nThis course aims to help you develop a deeper understanding of how Git works to facilitate collaboration. It builds on foundations laid by the Git beginners course. The core idea around the course is that by improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others (including your future self!)."
+    "section": "[Advanced] Version control: Git with it!",
+    "text": "[Advanced] Version control: Git with it!\n\n\n Who: Neil Shephard\nWhen/Length: February\nFormat: In person\n\n\n\nAbstract:\n\nThis course aims to help you develop a deeper understanding of how Git works to facilitate collaboration. It builds on foundations laid by the Git beginners course. The core idea around the course is that by improving your understanding of working with branches and how to make your commits tidier and neater it makes it easier to understand pull requests and Git history which in turn makes it easier to collaborate and work on code with others (including your future self!)."
   },
   {
     "objectID": "index.html#design-your-code-and-write-less-of-it",
     "href": "index.html#design-your-code-and-write-less-of-it",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Design your code (and write less of it)",
-    "text": "Design your code (and write less of it)\n\n\n Who: R. Thomas\nWhen/Length: 12/13 December (2 half days)\nFormat: In person\n\n\n\nAbstract:\n\nThe way you write your code will have a massive impact on how easy it is to maintain in the long run. This course on Code Design introduces essential principles and best practices for writing clean and maintainable code. We will learn how we can write clean code, adhering to naming conventions, commenting, and following PEP 8 guidelines. We will then explore some fundamental principles such as DRY, KISS or YAGNI that are important to keep in mind when writing new code and see how we can spend less time touching the code by introducing configuration files and command line interface."
+    "text": "Design your code (and write less of it)\n\n\n Who: Martin Dyer & Neil Shephard\nWhen/Length: 26/11 & 03/12 (2 half days)\nFormat: In person\n\n\n\nAbstract:\n\nThe way you write your code will have a massive impact on how easy it is to maintain in the long run. This course on Code Design introduces essential principles and best practices for writing clean and maintainable code. We will learn how we can write clean code, adhering to naming conventions, commenting, and following PEP 8 guidelines. We will then explore some fundamental principles such as DRY, KISS or YAGNI that are important to keep in mind when writing new code and see how we can spend less time touching the code by introducing configuration files and command line interface."
+  },
+  {
+    "objectID": "index.html#software-lifecycle-planning",
+    "href": "index.html#software-lifecycle-planning",
+    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
+    "section": "Software Lifecycle Planning",
+    "text": "Software Lifecycle Planning\n\n\n Who: R Thomas, R. Campbell, K. O’Neill\nWhen/Length: 11/12, ~2.5h (afternoon)\nFormat: Online\n\n\n\nAbstract:\n\nWhen you start writing software it is often very useful to think about the development process and how you will make your software sustainable in the long term. In this module we will introduce important aspects of software development in research: software management plan, licences and dissemination. This module should allow you to ask yourself the right questions when starting a research software project."
   },
   {
     "objectID": "index.html#code-testing",
@@ -291,14 +312,7 @@
     "href": "index.html#software-papers",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Software Papers",
-    "text": "Software Papers\n\n\n Who: Romain Thomas & Arfon Smith\nWhen/Length: April, 1.5h\nFormat: Online\n\n\n\nAbstract:\n\nDid you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and citation) for the software you have spent countless hours creating. In this course we will walk you through an example of submission in the Journal of Open Source Software. We will make an example software submission to the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is done."
-  },
-  {
-    "objectID": "index.html#end-to-end-demo",
-    "href": "index.html#end-to-end-demo",
-    "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
-    "section": "End-to-End demo",
-    "text": "End-to-End demo\n\n\n Who: Romain Thomas\nWhen/Length: April, 1.5h\nFormat: Online\n\n\n Abstract:\nOn a short demonstration, we will attempt to review the main points of the training program, from code design and version control, to testing, documentation and packaging of a short demo software."
+    "text": "Software Papers\n\n\n Who: Romain Thomas\nWhen/Length: April, 45min\nFormat: Online\n\n\n\nAbstract:\n\nDid you know that you can actually publish a paper about your software? This is an ideal way to get recognition (and citation) for the software you have spent countless hours creating. In this course we will walk you through an example of submission in the Journal of Open Source Software. We will make an example software submission to the journal, and thanks to the collaboration of the Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is done."
   },
   {
     "objectID": "index.html#the-fair24rs-programme-timeline",
@@ -319,7 +333,7 @@
     "href": "index.html#the-fair24rs-programme-important-notes",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "the fair24rs programme: important notes",
-    "text": "the fair24rs programme: important notes\n\n\n\n\nTraining are all Free of charge.\n\nBUT! they all need registration and in-person sessions have limited places!\nThey will all be available on mydevelopment platform. The first 3 sessions are already open for registration:\n\nSoftware Management plan - Nov 8th\nGit/Github zero to Hero - Nov 18th/19th\nCode Design - Dec 12th/13th\n\nJanuary onward sessions will be available for booking around December.\n\n\n\n\n\nDirect links are also available on the RSE website:"
+    "text": "the fair24rs programme: important notes\n\n\n\n\nTraining are all Free of charge.\n\nBUT! they all need registration and in-person sessions have limited places!\nThey will all be available on mydevelopment platform. The first 3 sessions are already open for registration:\n\nGit/Github zero to Hero - Oct 28th & Nov 4th\nCode Design - Nov 26th & Dec 3rd\nSoftware Management plan - Dec 12th\n\nJanuary onward sessions will be available for booking around December.\n\n\n\n\n\nDirect links are also available on the RSE website:"
   },
   {
     "objectID": "index.html#rse-website",
@@ -340,6 +354,6 @@
     "href": "index.html#thank-you",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Thank you!",
-    "text": "Thank you!\n\n\n\n\n\n\n\n\n\nHelp us improve!\nScan to give your feedback!\n\n\n\n\nAccess to the slides: here - Source Github repository"
+    "text": "Thank you!\n\n\n\n\n\n\n\n\n\nHelp us improve!\nScan to give your feedback!"
   }
 ]
