@@ -875,7 +875,7 @@ When you start writing software it is often very useful to think about the devel
 
 
 <br><br>
-<span style="color:red">Who</span>: [Sylvia Whittle](mailto:sylvia.whittle@sheffield.ac.uk) 
+<span style="color:red">Who</span>: [Sylvia Whittle](mailto:sylvia.whittle@sheffield.ac.uk) & Michael Foster 
 
 <span style="color:red">When/Length</span>: January (half day)
 
