@@ -4,7 +4,7 @@
     "href": "index.html#useful-information",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Useful Information:",
-    "text": "Useful Information:\n\n\n\nThis talk is recorded.\nYou can follow the slides ➡️➡️ \nSlides are available freely on github.\nAsk questions in the google chat. Thanks to Tamora James for the moderation. \nEvery blue text is a hyperlink"
+    "text": "Useful Information:\n\n\n\nThis talk is recorded.\nYou can follow the slides ➡️➡️ \nSlides are available freely on github.\nYou can interupt me at any moment if you have a question. \nEvery blue text is a hyperlink."
   },
   {
     "objectID": "index.html#who-am-i",
@@ -284,7 +284,7 @@
     "href": "index.html#code-testing",
     "title": "-Better software for Better research-Introduction to the FAIR2 for Research Software training Programme",
     "section": "Code Testing",
-    "text": "Code Testing\n\n\n Who: Sylvia Whittle\nWhen/Length: January (half day)\nFormat: In person\n\n\n\nAbstract:\n\nDoes your code work? Are you sure? How do you ensure that it keeps working when you change it? Manually verifying is slow and tedious. Why not automate it? Software testing checks that your code works for you, and when it breaks, it can show you exactly where it broke, without you having to trawl through hundreds of lines of code manually.This course aims to provide you with the tools you need to start automatically ensuring the reliability of your code."
+    "text": "Code Testing\n\n\n Who: Sylvia Whittle & Michael Foster\nWhen/Length: January (half day)\nFormat: In person\n\n\n\nAbstract:\n\nDoes your code work? Are you sure? How do you ensure that it keeps working when you change it? Manually verifying is slow and tedious. Why not automate it? Software testing checks that your code works for you, and when it breaks, it can show you exactly where it broke, without you having to trawl through hundreds of lines of code manually.This course aims to provide you with the tools you need to start automatically ensuring the reliability of your code."
   },
   {
     "objectID": "index.html#documentation",

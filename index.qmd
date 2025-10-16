@@ -26,9 +26,9 @@ css: style.css
 
 - Slides are available freely on github.
 
-- Ask questions in the google chat. Thanks to Tamora James for the moderation. <br>
+- You can interupt me at any moment if you have a question. <br>
 
-- Every [blue]() text is a hyperlink
+- Every [blue]() text is a hyperlink.
 
 :::
 
