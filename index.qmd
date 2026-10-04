@@ -6,7 +6,7 @@ format:
         slide-number: true
         show-slide-number: speaker
 author: "<br>**Romain Thomas**<br>[Head of Research Software Engineering](https://rse.shef.ac.uk/),<br> The University of Sheffield<br>[rse.shef.ac.uk](https://rse.shef.ac.uk)"
-institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2025"
+institute: "<br><strong>FAIR24RS training programme Kick-off Seminar</strong>, October 2026"
 date: ""
 footer: "**Access** to the slides: [here](https://fair2-for-research-software.github.io/Better_software_for_better_research/#/what-if-a-generation-of-research-stop-doing-this) - **Source** [Github repository](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)"
 from: markdown+emoji
@@ -19,8 +19,6 @@ css: style.css
 ::: {.columns}
 
 ::: {.column width="60%"}
-
-- This talk is recorded.
 
 - You can follow the slides :arrow_right::arrow_right: <br>
 
@@ -127,9 +125,9 @@ The Library's Scholarly Communications Team provides specialist services to supp
 
 :::
 
-## This is our second year!
+## This is our third year!
 
-During our first delivery we have seen ~250 registrations to our training programme from all Faculties at the university.
+During our first two deliveries we have seen ~250 registrations to our training programme from all Faculties at the university.
 ![](assets/images/Recap24.png){.absolute top="180" left="70" width="900"  height="500"}
 
 
@@ -145,7 +143,7 @@ During our first delivery we have seen ~250 registrations to our training progra
 <br>
 <br>
 
-- This second year also sees us **teaching** a (shortened) version of our programme to the made4manufacturing CDT. 
+- This third year is also our second year **teaching** a (shortened) version of our programme to the made4manufacturing CDT. 
 - Part of the Data Science and RSE module. 
 
 
